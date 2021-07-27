@@ -972,9 +972,9 @@ body.ie ._ibg img {
 }
 
 .header__wrapper {
-  padding: 125px 0 100px;
   position: relative;
   z-index: 10;
+  padding: 125px 0 100px;
 }
 
 .header__many {
@@ -1108,7 +1108,7 @@ body.ie ._ibg img {
 }
 
 ._no-webp .header .choice::after{
-  background: url("img/Group11.png") center/contain no-repeat; }
+  background: url("../img/Group11.png") center/contain no-repeat; }
 
 .header .choice::after {
   content: "";
@@ -1472,4 +1472,4 @@ body.ie ._ibg img {
   }
 }
 
-._webp .header .choice::after{ background: url(/img/Group11.webp) center/contain no-repeat; }
+._webp .header .choice::after{ background: url(../img/Group11.webp) center/contain no-repeat; }
