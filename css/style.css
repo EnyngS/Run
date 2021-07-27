@@ -1106,7 +1106,7 @@ body.ie ._ibg img {
 }
 
 ._no-webp .header .choice::after{
-  background: url("/img/Group11.png") center/contain no-repeat; }
+  background: url("img/Group11.png") center/contain no-repeat; }
 
 .header .choice::after {
   content: "";
