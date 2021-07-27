@@ -973,8 +973,8 @@ body.ie ._ibg img {
 
 .header__wrapper {
   padding: 125px 0 100px;
-	position: relative;
-		z-index: 10;
+  position: relative;
+  z-index: 10;
 }
 
 .header__many {
